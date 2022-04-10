@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, i'm Lucas Kraemer and i'm a student and a SQL developer in the university Univates.
 
 <div align="center">
   <a href="https://github.com/LukaKremer">
